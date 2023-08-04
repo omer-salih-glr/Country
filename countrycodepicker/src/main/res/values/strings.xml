@@ -1,0 +1,12 @@
+<!--
+  ~ Created by Emirhan KOLVER on 9/26/22, 2:57 PM
+  ~ Copyright (c) 2022 . All rights reserved.
+  ~ Last modified 9/23/22, 10:13 AM
+  -->
+
+<resources>
+    <string name="app_name">Country Code Picker</string>
+
+    <string name="choose_country">Choose Country</string>
+    <string name="search_country">Search Country</string>
+</resources>

@@ -1,0 +1,26 @@
+<!--
+  ~ Created by Emirhan KOLVER on 9/26/22, 2:57 PM
+  ~ Copyright (c) 2022 . All rights reserved.
+  ~ Last modified 9/23/22, 1:55 PM
+  -->
+
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.Fuck" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:forceDarkAllowed" tools:targetApi="q">false</item>
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#1A7DFF</item>
+        <item name="colorPrimaryVariant">#1A7DFF</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#1A7DFF</item>
+        <item name="colorSecondaryVariant">#1A7DFF</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/top_bar_color</item>
+        <item name="android:navigationBarColor">@color/background_color_2</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+        <item name="android:windowLightNavigationBar" tools:targetApi="o_mr1">true</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>

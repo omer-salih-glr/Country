@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Emirhan KOLVER on 9/26/22, 2:57 PM
+  ~ Copyright (c) 2022 . All rights reserved.
+  ~ Last modified 9/23/22, 10:12 AM
+  -->
+
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background_color_2">#FAFAFA</color>
+
+
+    <color name="top_bar_color">#1A7DFF</color>
+    <color name="top_bar_text_color">#fff</color>
+    <color name="card_color">#FCFDFE</color>
+    <color name="card_stroke_color">#EFF2F5</color>
+    <color name="edit_text_hint_color">#1B1D1E</color>
+
+
+    <color name="text_color_black">#000000</color>
+    <color name="text_color_gray">#515151</color>
+    <color name="color_gray">#AFAFAF</color>
+    <color name="text_color_gray2">#515151</color>
+    <color name="stroke_color">#EDEDED</color>
+    <color name="error_color">#E41E1E</color>
+
+
+</resources>

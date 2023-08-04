@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Created by Emirhan KOLVER on 9/26/22, 2:57 PM
+  ~ Copyright (c) 2022 . All rights reserved.
+  ~ Last modified 9/23/22, 1:53 PM
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:theme="@style/Theme.Fuck"
+        tools:targetApi="31"
+        android:label="@string/app_name"
+        android:supportsRtl="true">
+
+        <activity
+            android:name=".CountryPickerActivity"
+            android:exported="true"
+            android:theme="@style/Theme.Fuck" />
+    </application>
+
+</manifest>
